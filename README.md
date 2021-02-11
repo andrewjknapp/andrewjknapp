@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![andrewjknapp's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjknapp&theme=midnight-purple&show_icons=true)
 <!--
 **andrewjknapp/andrewjknapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
